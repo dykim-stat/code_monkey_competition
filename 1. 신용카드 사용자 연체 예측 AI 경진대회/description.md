@@ -6,6 +6,8 @@ https://dacon.io/competitions/official/235713/overview/description
 1. 입문자의 투박한 EDA
 https://dacon.io/competitions/official/235713/codeshare/2494?page=1&dtype=vote
 
+2. 하이퍼파라미터 튜닝을 쉽고 빠르게 하는 방법
+https://dacon.io/competitions/official/235713/codeshare/2704?page=1&dtype=vote
 
 
 
